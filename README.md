@@ -1,8 +1,8 @@
 # Our printf () function
 
 ### Authors
-1. Idrees Oladimeji
-2. Naheemah Bello
+1. Soglo-Ahianyo Elisha
+2. Godfred Agyapong
 
 ## Description
 
